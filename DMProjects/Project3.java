@@ -34,14 +34,14 @@ public class Project3
             staywins += decisions[choice];
             switchwins += decisions[3 - choice - shown];
             trials += 1;
-         System.out.println("Switch wins: " + switchwins);
-         System.out.println("Switching probability: " + (double)switchwins/trials);
-         System.out.println("Stay wins: " + staywins);
-         System.out.println("Staying probability: " + (double)staywins/trials);
-         System.out.println("Do you want to keep going?");
-         keyboard.nextLine();
-         response = keyboard.nextLine();
-         reply = response.charAt(0);
+            System.out.println("Switch wins: " + switchwins);
+            System.out.println("Switching probability: " + (double)switchwins/trials);
+            System.out.println("Stay wins: " + staywins);
+            System.out.println("Staying probability: " + (double)staywins/trials);
+            System.out.println("Do you want to keep going?");
+            keyboard.nextLine();
+            response = keyboard.nextLine();
+            reply = response.charAt(0);
         } while((reply == 'Y') || (reply == 'y'));
     }
 }

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Project3
+comment0.text=\r\n\ This\ program\ was\ written\ in\ Java,\ and\ simulates\ the\ Monty\ Hall\ Three-Door\ problem.\r\n\ \r\n\ Code\ cited\ from\:\ https\://rosettacode.org/wiki/Monty_Hall_problem\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

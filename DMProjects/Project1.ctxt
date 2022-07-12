@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Project1
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=str1\ str2\ num
+comment2.target=void\ XOR(java.lang.String,\ java.lang.String,\ int)
+comment3.params=str1\ str2\ num
+comment3.target=void\ AND(java.lang.String,\ java.lang.String,\ int)
+comment4.params=str1\ str2\ num
+comment4.target=void\ OR(java.lang.String,\ java.lang.String,\ int)
+numComments=5

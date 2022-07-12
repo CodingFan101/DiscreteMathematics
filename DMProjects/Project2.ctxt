@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Project2
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=first\ second
+comment2.target=int\ Euclidean(int,\ int)
+comment2.text=\r\n\ \ \ \ \ The\ 'Euclidean'\ method\ determines\ the\ greatest\ common\ divisor\ of\ two\r\n\ \ \ \ \ integers.\r\n\ \ \ \ \ @param\ first\ The\ first\ number.\r\n\ \ \ \ \ @param\ second\ The\ second\ number.\r\n\ \ \ \ \ @return\ The\ greatest\ common\ divisor.\r\n
+numComments=3
